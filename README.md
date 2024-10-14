@@ -37,7 +37,7 @@ Este proyecto es una aplicación simple para gestionar productos utilizando Lara
 1. cd crud-productos
 
 2. Clona el repositorio:
-   git clone https://github.com/dariocasx/crud-productos.git
+   git clone https://github.com/dariocasx/crud-productos/tree/master.git
 
 3. composer install
 
