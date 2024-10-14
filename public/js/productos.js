@@ -42,7 +42,7 @@ $(document).ready(function() {
         dom: '<"top"f>rt<"bottom"lp><"clear">', // 'f' es el filtro/buscador
         language: {
             //para que el datatable este en español, no funcion con el CDN por problema de CORS
-            url: "/js/español.json"
+            url: "/js/spanish.json"
         },
         initComplete: function() {
             $('.dataTables_filter').css('margin-bottom', '20px');
