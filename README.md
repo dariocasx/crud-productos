@@ -8,7 +8,7 @@ Este proyecto es una aplicación simple para gestionar productos utilizando Lara
 - **Editar productos**: Permite modificar productos existentes.
 - **Eliminar productos**: Permite eliminar productos.
 - **Obtener productos**: Permite ver la lista de todos los productos o un producto específico.
-- **Middleware de seguridad**: Controla el acceso a los endpoints según roles (solo administradores).
+- **Middleware de seguridad**: Controla el acceso a los endpoints según roles.
 - **Pruebas unitarias**: Sobre el controlador y modelo de productos.
 
 ## Tecnologías Utilizadas
